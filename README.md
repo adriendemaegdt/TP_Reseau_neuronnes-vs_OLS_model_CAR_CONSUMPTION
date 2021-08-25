@@ -1,4 +1,4 @@
-# TP_RNN_OLS_CAR_CONSUMPTION
+# TP_Reseau_neuronnes vs_OLS_model_CAR_CONSUMPTION
 
 L'enjeux de ce Tp est d'entrainer un reseau de neuronnes et une OLS regression sur un dataset 
 afin de prédire la consommation d'une voiture (MPG) compte tenu des variables explicatives suivantes : 
